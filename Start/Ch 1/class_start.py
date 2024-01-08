@@ -4,7 +4,7 @@
 
 class Book:
     # TODO: Properties defined at the class level are shared by all instances
-
+    
     # TODO: double-underscore properties are hidden from other classes
 
     # TODO: create a class method
